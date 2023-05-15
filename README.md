@@ -27,21 +27,50 @@ The Service layer is implemented as an interface and a concrete implementation, 
 
 ### API Endpoints
 
-GET /api/fruits
-Returns a list of all fruits.
+    GET /api/fruits
+    Returns a list of all fruits.
 
-POST /api/fruits/family
-Returns a list of all fruits belonging to a fruit family.
+    POST /api/fruits/family
+    Returns a list of all fruits belonging to a fruit family.
 
-Request Body
-The request body should be in JSON format and include the following property:
-Example Request :
+        Request Body
+        The request body should be in JSON format and include the following property:
+        Example Request :
 
-{
-    "fruitFamily": "Rutaceae"
-}
+        {
+            "fruitFamily": "Rutaceae"
+        }
 
-Example Response :
+        Example Response :
 
-[    {        "genus": "Citrus",        "name": "Orange",        "id": 12,        "family": "Rutaceae",        "order": "Sapindales",        "nutritions": {            "carbohydrates": 12.5,            "protein": 0.9,            "fat": 0.2,            "calories": 47,            "sugar": 9.35        }    },    {        "genus": "Citrus",        "name": "Lemon",        "id": 13,        "family": "Rutaceae",        "order": "Sapindales",        "nutritions": {            "carbohydrates": 9.32,            "protein": 1.1,            "fat": 0.3,            "calories": 29,            "sugar": 2.5        }    }]
+        [
+           {
+              "genus":"Citrus",
+              "name":"Orange",
+              "id":12,
+              "family":"Rutaceae",
+              "order":"Sapindales",
+              "nutritions":{
+                 "carbohydrates":12.5,
+                 "protein":0.9,
+                 "fat":0.2,
+                 "calories":47,
+                 "sugar":9.35
+              }
+           },
+           {
+              "genus":"Citrus",
+              "name":"Lemon",
+              "id":13,
+              "family":"Rutaceae",
+              "order":"Sapindales",
+              "nutritions":{
+                 "carbohydrates":9.32,
+                 "protein":1.1,
+                 "fat":0.3,
+                 "calories":29,
+                 "sugar":2.5
+              }
+           }
+        ]
 
