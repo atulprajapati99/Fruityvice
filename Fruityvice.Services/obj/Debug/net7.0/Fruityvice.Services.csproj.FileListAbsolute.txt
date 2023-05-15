@@ -1,0 +1,12 @@
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\bin\Debug\net7.0\Fruityvice.Services.deps.json
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\bin\Debug\net7.0\Fruityvice.Services.dll
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\bin\Debug\net7.0\Fruityvice.Services.pdb
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\Fruityvice.Services.csproj.AssemblyReference.cache
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\Fruityvice.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\Fruityvice.Services.AssemblyInfoInputs.cache
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\Fruityvice.Services.AssemblyInfo.cs
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\Fruityvice.Services.csproj.CoreCompileInputs.cache
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\Fruityvice.Services.dll
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\refint\Fruityvice.Services.dll
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\Fruityvice.Services.pdb
+C:\Users\Atul\source\repos\Fruityvice\Fruityvice.Services\obj\Debug\net7.0\ref\Fruityvice.Services.dll
